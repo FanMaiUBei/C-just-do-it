@@ -1,3 +1,0 @@
-﻿  test_5_1.c
-D:\Sofeware\Visual Studio\test_5_1\test_5_1\test_5_1.c(10,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
-  test_5_1.vcxproj -> D:\Sofeware\Visual Studio\test_5_1\x64\Debug\test_5_1.exe
