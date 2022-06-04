@@ -1,5 +1,0 @@
-﻿  game.c
-D:\Sofeware\Visual Studio\test_6_2\test_6_2\game.c(23,10): warning C4013: “printf”未定义；假设外部返回 int
-D:\Sofeware\Visual Studio\test_6_2\test_6_2\game.c(51,8): warning C4013: “scanf”未定义；假设外部返回 int
-D:\Sofeware\Visual Studio\test_6_2\test_6_2\game.c(71,15): warning C4013: “rand”未定义；假设外部返回 int
-  test_6_2.vcxproj -> D:\Sofeware\Visual Studio\test_6_2\x64\Debug\test_6_2.exe
