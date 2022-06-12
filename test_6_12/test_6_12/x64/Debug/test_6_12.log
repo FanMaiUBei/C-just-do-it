@@ -1,0 +1,4 @@
+﻿  test_6_12.c
+D:\Sofeware\Visual Studio\test_6_12\test_6_12\test_6_12.c(169,13): warning C4047: “函数”:“int (*)[5]”与“int [5]”的间接级别不同
+D:\Sofeware\Visual Studio\test_6_12\test_6_12\test_6_12.c(169,9): warning C4024: “print2”: 形参和实参 1 的类型不同
+  test_6_12.vcxproj -> D:\Sofeware\Visual Studio\test_6_12\x64\Debug\test_6_12.exe
