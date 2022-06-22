@@ -1,0 +1,10 @@
+﻿  test.c
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(104,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(104,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(105,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(105,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(106,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(106,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(107,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Sofeware\Visual Studio\test_6_21\test_6_21\test.c(107,9): message : 请考虑在格式字符串中使用“%zd”
+  test_6_21.vcxproj -> D:\Sofeware\Visual Studio\test_6_21\x64\Debug\test_6_21.exe
